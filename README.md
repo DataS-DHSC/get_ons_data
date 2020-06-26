@@ -11,7 +11,7 @@ There are a number of routes to obtain data from ONS to feed a [reproducible ana
 
 An [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (api) is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc.
 
-ONS have an API, part of a service called Customise My Data (CMD). It currently contains a subset of ONS data. They have a [full list](https://onsdigital.github.io/dp-prototypes/prototypes/cmd-dataset-list/index.html) and guidance](https://developer.beta.ons.gov.uk/). The data is available in both .CSV or .XLSX format. Data may be in a more raw than the publication files, so may require some light processing. 
+ONS have an API, part of a service called Customise My Data (CMD). It currently contains a subset of ONS data. They have a [full list](https://onsdigital.github.io/dp-prototypes/prototypes/cmd-dataset-list/index.html) and [guidance](https://developer.beta.ons.gov.uk/). The data is available in both .CSV or .XLSX format. Data may be in a more raw than the publication files, so may require some light processing. 
 
 The most popular r package for calling APIs is [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html). The documentation includes some [examples](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html) of how to make calls using the package.
 
