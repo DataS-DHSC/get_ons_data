@@ -1,6 +1,6 @@
 # get_ons_data
 Discussion on how to obtain data from ONS for downstream use.
-![ons_screenshot](https://github.com/benstanbury/get_ons_data/blob/master/ons_screenshot.jpeg)
+![ons_screenshot](https://github.com/DataS-DHSC/get_ons_data/blob/master/ons_screenshot.jpeg)
 
 ## Options
 
